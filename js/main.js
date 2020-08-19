@@ -1,0 +1,1 @@
+$(window).resize(function(i){var e=$(window).outerHeight();$(".mainblock").css({height:e})});
